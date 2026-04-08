@@ -69,3 +69,4 @@ To access the settings panel:
 * **Bars are missing?** Ensure you are playing a song. If the screen is black, try running `spicetify restore backup apply`.
 * **UI not appearing?** The settings panel is hidden to keep the look clean. Move your cursor to the **extreme top-right corner**.
 * **Colors won't change?** Toggle "Manual Color" on and then off again to force a fresh extraction of the album art colors.
+* **Poor performance?** Make sure to turn on Hardware Acceleration on Spotify settings.
