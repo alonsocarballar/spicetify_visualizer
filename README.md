@@ -14,6 +14,10 @@ A high-performance, ultra-smooth physics-based audio visualizer for Spicetify. F
 
 ---
 
+![Preview](preview.png)
+
+---
+
 ## Installation
 
 1.  Open your Spicetify config directory by running `spicetify config-dir` in your terminal.
